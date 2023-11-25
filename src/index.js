@@ -12,7 +12,7 @@ import DashboardPage from './pages/dashboard';
 
 const router = createBrowserRouter([
   {
-    path: "/login",
+    path: "/",
     element: <LoginPage/>
   },
   {
