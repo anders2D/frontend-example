@@ -23,6 +23,7 @@ export default function ProfileMenu() {
         onClick={handleClick}
       >
         <img
+          alt="Profile-img"
           width="50px"
           src="https://previews.123rf.com/images/yupiramos/yupiramos1705/yupiramos170514531/77987158-dise%C3%B1o-gr%C3%A1fico-del-ejemplo-del-vector-del-icono-del-perfil-del-hombre-joven.jpg"
         ></img>
